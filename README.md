@@ -24,20 +24,20 @@ For our second anniversary event, we maintained a similar structure but introduc
 
 ### Images
 
-> Vision Selection
-![](./images/vision_selection.png)
+> Vision Selection<br>
+![](https://raw.githubusercontent.com/DerUSBstick/moderation_bot/main/images/vision_selection.png)
 
-> Questions Variations
-![](./images/PollEmbed.png)
+> Questions Variations<br>
+![](https://raw.githubusercontent.com/DerUSBstick/moderation_bot/main/images/PollEmbed.png)
 
-> Poll/Question Embed
-![](./images/PollQuestion.png)
+> Poll/Question Embed<br>
+![](https://raw.githubusercontent.com/DerUSBstick/moderation_bot/main/images/PollQuestion.png)
 
-> Questions Command
-![](./images/2YearQuestionsCommand.png)
+> Questions Command<br>
+![](https://raw.githubusercontent.com/DerUSBstick/moderation_bot/main/images/2YearQuestionsCommand.png)
 
-> Anniversary Stats without Filter
-![](./images/2YearStatsCommand.png)
+> Anniversary Stats without Filter<br>
+![](https://raw.githubusercontent.com/DerUSBstick/moderation_bot/main/images/2YearStatsCommand.png)
 
-> Anniversary Stats with Filter
-![](./images/2YearStatsCommandFiltered.png)
+> Anniversary Stats with Filter<br>
+![](https://raw.githubusercontent.com/DerUSBstick/moderation_bot/main/images/2YearStatsCommandFiltered.png)
